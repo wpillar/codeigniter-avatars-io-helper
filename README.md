@@ -3,6 +3,10 @@ Codeignier Avatars.io Helper
 
 A Codeigniter helper for the http://avatars.io service.
 
+### Installation
+
+Drop the avatars-io_helper.php file into application/helpers and load or autoload in the usual manner.
+
 ### Basic Usage
 
 Echo a plain URL of the avatar.
