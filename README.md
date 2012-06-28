@@ -1,4 +1,4 @@
-Codeignier Avatars.io Helper
+Codeigniter Avatars.io Helper
 =============================
 
 A Codeigniter helper for the http://avatars.io service.
